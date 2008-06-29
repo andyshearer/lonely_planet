@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/lonely_planet
+lib/lonely_planet.rb
+test/test_lonely_planet.rb
